@@ -1,0 +1,4 @@
+--require ./test/mocha-env
+--ui bdd
+--reporter spoc
+--timeout 200

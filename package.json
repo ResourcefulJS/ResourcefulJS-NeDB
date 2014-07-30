@@ -1,0 +1,25 @@
+{
+  "name": "resourcefuljs-nedb",
+  "version": "0.0.1-pre",
+  "homepage": "http://resourcefuljs.org",
+  "author": "Ricki Runge <mail@rickirunge.com>",
+  "dependencies": {
+    "nedb": "^0.10.7",
+    "resourcefuljs": "0.0.1-pre"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-as-promised": "^4.1.1",
+    "gulp": "^3.8.6",
+    "gulp-coverage": "^0.1.24",
+    "gulp-mocha": "^0.5.1",
+    "mocha": "^1.20.1",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  },
+  "main": "resourcefuljs-nedb",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ResourcefulJS/ResourcefulJS-NeDB.git"
+  }
+}
