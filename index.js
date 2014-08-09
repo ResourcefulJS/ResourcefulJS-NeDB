@@ -1,2 +1,2 @@
 
-module.exports = require("./lib/resourcefuljs-nedb.js");
+module.exports = require("./lib/resourcefuljs-nedb");
