@@ -5,6 +5,7 @@
     "author": "Ricki Runge <mail@rickirunge.com>",
     "dependencies": {
         "nedb": "^0.10.7",
+        "promise": "^6.0.0",
         "resourcefuljs": "0.0.1-pre"
     },
     "devDependencies": {
@@ -15,8 +16,7 @@
         "gulp-mocha": "^0.5.1",
         "istanbul": "^0.3.2",
         "mocha": "^1.20.1",
-        "sinon": "^1.10.3",
-        "sinon-chai": "^2.5.0"
+        "sinon": "^1.10.3"
     },
     "main": "index",
     "repository": {
